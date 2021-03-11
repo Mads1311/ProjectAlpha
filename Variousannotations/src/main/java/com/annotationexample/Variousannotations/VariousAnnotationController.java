@@ -23,6 +23,7 @@ public class VariousAnnotationController {
 	@RequestMapping("/getmessage")
 
 	public String getMessage() {
+		System.out.println("Inside controller getmsg() ");
 		return "Hi,I am in controller";
 	}
 
