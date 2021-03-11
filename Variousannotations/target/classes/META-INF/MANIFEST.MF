@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Variousannotations
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Hridhaan
+Implementation-Vendor-Id: com.annotationexample
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/Variousanno
+ tations
+Created-By: Maven Integration for Eclipse
+
